@@ -1,3 +1,3 @@
 # grupo1
 
-Esta es una pruba de como hacer modificaciones en los archivos.
+Esta es una prueba de como hacer modificaciones en los archivos.
